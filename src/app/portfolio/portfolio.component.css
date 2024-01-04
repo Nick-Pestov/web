@@ -1,0 +1,9 @@
+.custom-button {
+    background-color: white; /* Change this to your desired background color */
+    color: black; /* Set the default text color */
+  }
+  
+  .custom-button:hover {
+    background-color: lightblue; /* Change this to the desired hover background color */
+    color: black; /* Set the text color to black on hover */
+  }

@@ -1,0 +1,2 @@
+run the command ng g (short for generate) c (component) <name> --skip-tests 
+to generate a component with <name> that does not create a test file
